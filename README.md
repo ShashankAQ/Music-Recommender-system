@@ -26,3 +26,10 @@ PERFORMING K MEANS CLUSTERING
 Certian Musical Factors such as Instrumentalness,Liveliness,Danceability,popularity etc etc.
 ![Screenshot 2024-07-03 225102](https://github.com/ShashankAQ/Music-Recommender-system/assets/139737140/f0113fa1-7d3b-4973-9337-9014dc624d27)
 
+
+K-Means Clustering mainly for the recommend_songs fucntion
+
+
+![newplot](https://github.com/ShashankAQ/Music-Recommender-system/assets/139737140/51f86b60-fab4-47d0-8c0a-941ec1e1465f)
+
+
