@@ -22,3 +22,7 @@ Personalized Song Recommendations:
 Receive tailored song recommendations based on your input of a song or artist. Discover new music that matches your taste.
 Using K-means clustering, the system sums up and analyzes multiple input values (like genre, artist, and song attributes) to recommend songs with similar mean values, providing a personalized playlist that matches your preferences.
 
+PERFORMING K MEANS CLUSTERING 
+Certian Musical Factors such as Instrumentalness,Liveliness,Danceability,popularity etc etc.
+![Screenshot 2024-07-03 225102](https://github.com/ShashankAQ/Music-Recommender-system/assets/139737140/f0113fa1-7d3b-4973-9337-9014dc624d27)
+
